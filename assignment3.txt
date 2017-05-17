@@ -1,0 +1,21 @@
+Assignment# 3
+COSC 4351
+
+Due Date: 10/30/2015 23:59:59
+
+
+In this assignment you will use test driven development methodology to create the program as discussed below.
+Follow TDD, don't write any code unless a failing test demands it. Write minimum code to make tests pass. Start early and take very small steps. 
+Keep your tests passing at all times. Keep the design lightweight and the code quality high.
+
+Problem statement:
+Implement an application that will perform the following actions:
+1.	Prompt the user and read in value for the year of their birth (e.g. 1994)
+2.	Prompt the user and read in a value for the month of their birth(e.g. 2 for February)
+3.	Prompt the user and read in a value for the day of their birth (e.g. 14).
+4.	Print out the day of the week (Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, or Saturday) on which that day falls for year.
+	e.g. "You were born on a Sunday"
+
+Deliverables:
+1. Provide Software Design Document (SDD). Template is provided at class website.
+2. Complete working Code with TDD transition and sample output.
